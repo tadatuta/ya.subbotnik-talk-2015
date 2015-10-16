@@ -61,65 +61,6 @@ layout: default
 ## bem-components
 {:.section}
 
-### Особенности
-
-## Особенности
-* Построена по БЭМ-методологии
-
-## **[Например](http://jsfiddle.net/tadatuta/momLtmn9/)**
-## **[bit.ly/boostrap-telega](http://bit.ly/boostrap-telega)**
-
-## Особенности
-* Построена по БЭМ-методологии
-* Тема опциональна
-
-## **[Boostrap](http://jsfiddle.net/tadatuta/hb2ehqde/)**
-
-## Особенности
-* Построена по БЭМ-методологии
-* Тема опциональна
-* Кроссплатформенность
-* ...Проработана доступность
-
-## **[Boostrap](http://jsfiddle.net/tadatuta/mmoee4x6/)**
-## **[bem-components](http://jsfiddle.net/tadatuta/pphg7bgg/)**
-
-## **[Boostrap](http://getbootstrap.com/css/#selects)**
-## **[bem-components](https://ru.bem.info/libs/bem-components/v2.3.0/desktop/select/)**
-
-## Особенности
-* Построена по БЭМ-методологии
-* Тема опциональна
-* Кроссплатформенность
-* Проработана доступность
-* Декларативные шаблоны (опционально)
-
-## **[Шаблоны на клиенте](http://jsfiddle.net/tadatuta/h307ayjc/)**
-
-## Особенности
-* Построена по БЭМ-методологии
-* Тема опциональна
-* Кроссплатформенность
-* Проработана доступность
-* Декларативные шаблоны (опционально)
-* Декларативный JS
-
-## Недостатки
-* Полнота
-* ...Объем кода
-* ...Меньше пользователей
-* ...«Меньше артефактов»
-
-## Тесты
-* Unit-тесты на JS
-* ...Тесты на шаблоны
-* ...Тесты на верстку (gemini)
-* ...Линтеры
-* ...CI
-
-## bem-components
-{:.section}
-
 ### Использование
 
 ## Использование
@@ -168,6 +109,68 @@ npm i bem-components-dist
 ...[github.com/bem/bem-components-dist/archive/v2.3.0.zip](https://github.com/bem/bem-components-dist/archive/v2.3.0.zip)
 
 ## **[Используем блоки](http://jsfiddle.net/)**
+
+## bem-components
+{:.section}
+
+### Особенности
+
+## Особенности
+* Построена по БЭМ-методологии
+
+## **[Например](http://jsfiddle.net/tadatuta/momLtmn9/)**
+
+## **[bit.ly/boostrap-telega](http://bit.ly/boostrap-telega)**
+
+## Особенности
+* Построена по БЭМ-методологии
+* Тема опциональна
+
+## **[Например](http://jsfiddle.net/tadatuta/hb2ehqde/)**
+
+## Особенности
+* Построена по БЭМ-методологии
+* Тема опциональна
+* Кроссплатформенность
+* ...Проработана доступность
+
+## **[Boostrap](http://jsfiddle.net/tadatuta/mmoee4x6/)**
+
+## **[bem-components](http://jsfiddle.net/tadatuta/pphg7bgg/)**
+
+## **[Boostrap](http://getbootstrap.com/css/#selects)**
+
+## **[bem-components](https://ru.bem.info/libs/bem-components/v2.3.0/desktop/select/)**
+
+## Особенности
+* Построена по БЭМ-методологии
+* Тема опциональна
+* Кроссплатформенность
+* Проработана доступность
+* Декларативные шаблоны (опционально)
+
+## **[Шаблоны на клиенте](http://jsfiddle.net/tadatuta/h307ayjc/)**
+
+## Особенности
+* Построена по БЭМ-методологии
+* Тема опциональна
+* Кроссплатформенность
+* Проработана доступность
+* Декларативные шаблоны (опционально)
+* Декларативный JS
+
+## Тесты
+* Unit-тесты на JS
+* ...Тесты на шаблоны
+* ...Тесты на верстку (gemini)
+* ...Линтеры
+* ...CI
+
+## Недостатки
+* Полнота
+* ...Объем кода
+* ...Меньше пользователей
+* ...Меньше «артефактов»
 
 ## Резюмируя вышесказанное
 * bem-components — качественная библиотека готовых компонент
